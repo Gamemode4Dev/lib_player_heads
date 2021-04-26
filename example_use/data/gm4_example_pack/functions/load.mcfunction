@@ -1,0 +1,1 @@
+function gm4_example_pack:init
